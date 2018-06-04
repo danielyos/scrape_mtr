@@ -25,7 +25,15 @@ report_to_identifiers = {"תוספות למוסדות (מוכרים)": ("tr.EduG
                          "שעורי עזר לעולים": ("tr.EduGridViewRowGainsboro", 1),
                          "סיכום מוסדות למוטב": ('tr.EduGridViewRow', 4),
                          "שרתים ומזכירים":('tr.EduGridViewRowGainsboro2', 1),
-                         "תוספות למוטבים": ('tr.EduGridViewRowGainsboro', 1)
+                         "תוספות למוטבים": ('tr.EduGridViewRowGainsboro', 1),
+                         'גנ"י - גננות': ("tr.EduGridViewRowGainsboro", 1),
+                         'גנ"י - עוזרות': ("tr.EduGridViewRowGainsboro", 1),
+                         'גנ"י - שכל"מ': ("tr.EduGridViewRowGainsboro", 1),
+                         'גנ"י - שכל"מ  מ. אזורית': ("tr.EduGridViewRowGainsboro", 1),
+                         'הסעות כללי ': ("tr.EduGridViewAlternatingRowGainsboro", 2),
+                         'הסעות נט': ("tr.EduGridViewRowGainsboro", 1),
+                         'מועדוניות': ("tr.EduGridViewRowGainsboro", 1),
+
                          }
 
 
